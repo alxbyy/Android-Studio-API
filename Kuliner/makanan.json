@@ -1,0 +1,61 @@
+{
+    "makanan_khas": [
+        {
+            "nama": "Rendang",
+            "deskripsi": "Rendang adalah masakan daging sapi yang dimasak dalam santan dan rempah-rempah yang kaya akan cita rasa. Masakan ini berasal dari Minangkabau, Sumatra Barat.",
+            "bahan": [
+                "Daging sapi",
+                "Santan",
+                "Rempah-rempah"
+            ],
+            "asal": "Sumatra Barat, Indonesia",
+            "gambar": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/31040437/ini-resep-bumbu-rendang-daging-sapi-untuk-acara-spesial.jpg"
+        },
+        {
+            "nama": "Gado-gado",
+            "deskripsi": "Gado-gado adalah salad sayur dengan saus kacang khas Indonesia. Biasanya disajikan dengan telur rebus, tahu goreng, dan kerupuk.",
+            "bahan": [
+                "Sayur-sayuran",
+                "Tahu goreng",
+                "Telur rebus",
+                "Saus kacang",
+                "Kerupuk"
+            ],
+            "asal": "Jawa, Indonesia",
+            "gambar": "https://www.warisankuliner.com/gfx/recipes/temp_thumb-1629362058.jpg"
+        },
+        {
+            "nama": "Nasi Goreng",
+            "deskripsi": "Nasi goreng adalah nasi yang digoreng dalam minyak dengan bumbu dan kadang-kadang ditambahkan dengan telur, daging, atau seafood.",
+            "bahan": [
+                "Nasi",
+                "Bumbu",
+                "Telur",
+                "Daging/Seafood"
+            ],
+            "asal": "Seluruh Indonesia",
+            "gambar": "https://cdn1-production-images-kly.akamaized.net/LDRjBxjUH3gyrzEAUFrCi_XisTs=/0x148:1920x1230/800x450/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg"
+        },
+        {
+            "nama": "Sate",
+            "deskripsi": "Sate adalah makanan yang terdiri dari potongan daging yang ditusuk dengan bambu atau sumpit kayu, kemudian dipanggang dan disajikan dengan bumbu kacang.",
+            "bahan": [
+                "Daging",
+                "Bumbu kacang"
+            ],
+            "asal": "Seluruh Indonesia",
+            "gambar": "https://asset.kompas.com/crops/FDAcmidsNYJDL80i55bj7pbXqyk=/95x0:939x563/750x500/data/photo/2022/07/10/62ca309364500.jpeg"
+        },
+        {
+            "nama": "Bakso",
+            "deskripsi": "Bakso adalah bola daging yang umumnya terbuat dari campuran daging sapi giling dan tepung tapioka, disajikan dengan kuah kaldu.",
+            "bahan": [
+                "Daging sapi giling",
+                "Tepung tapioka",
+                "Kuah kaldu"
+            ],
+            "asal": "Jawa, Indonesia",
+            "gambar": "https://asset.kompas.com/crops/I9YfYuGPYoqtkGOgVDurgj-2MiY=/0x0:1000x667/750x500/data/photo/2020/06/02/5ed5f39c7d8fe.jpg"
+        }
+    ]
+}
