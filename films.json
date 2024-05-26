@@ -1,0 +1,67 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_year": 1925,
+        "genre": "Classic",
+        "pages": 180,
+        "publisher": "Scribner",
+        "language": "English",
+        "isbn": "9780743273565",
+        "rating": 4.4,
+        "summary": "A novel about the American dream and the roaring twenties.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/id/2/26/TheGreatGatsby2012Poster.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "publication_year": 1949,
+        "genre": "Dystopian",
+        "pages": 328,
+        "publisher": "Secker & Warburg",
+        "language": "English",
+        "isbn": "9780451524935",
+        "rating": 4.7,
+        "summary": "A dystopian novel set in a totalitarian society under constant surveillance.",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMWFkNzIzNDUtNWI1Mi00ODA2LTgyMTMtYTZiYWMxMDFlNmNhL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication_year": 1960,
+        "genre": "Southern Gothic",
+        "pages": 281,
+        "publisher": "J.B. Lippincott & Co.",
+        "language": "English",
+        "isbn": "9780061120084",
+        "rating": 4.8,
+        "summary": "A novel about racial injustice in the Deep South.",
+        "image_url": "https://play-lh.googleusercontent.com/YFjwVyUQzQN75eK4zO7QUEd9njzP5Gyt2PF0WKpvjZmQV3RRxhzzaiVC-wfV5gAboU8N"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publication_year": 1813,
+        "genre": "Romantic fiction",
+        "pages": 279,
+        "publisher": "T. Egerton",
+        "language": "English",
+        "isbn": "9780141040349",
+        "rating": 4.5,
+        "summary": "A romantic novel that also critiques the British class system.",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg"
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "publication_year": 1851,
+        "genre": "Adventure",
+        "pages": 635,
+        "publisher": "Harper & Brothers",
+        "language": "English",
+        "isbn": "9781503280786",
+        "rating": 4.1,
+        "summary": "A novel about the voyage of the whaling ship Pequod.",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzg0MjFmMjAtMmNlMC00ZmEzLWE0ZDQtYTFhZjAyNzIxZWU3XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg"
+    }
+]
